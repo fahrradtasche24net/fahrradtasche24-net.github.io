@@ -1,0 +1,141 @@
+{
+    "domain": "fahrradtasche24.net",
+    "hostname": "https://www.fahrradtasche24.net",
+    "email": "fahrradtasche24.net@surrealnetworks.io",
+    "organization": "fahrradtasche24.net",
+    "logoText": "Fahrradtasche24.net",
+    "title": "Fahrradtasche für viele Einsatzgebiete",
+    "subline": "Die für dich perfekte Fahrradtasche findest du bei uns.",
+    "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [],
+    "winnerProducts": [],
+    "featuredCategories": [],
+    "socialMediaAccounts": [
+        {
+            "name": "Twitter",
+            "link": "https://www.twitter.com/fahrradtasche24.net",
+            "iconClass": "fab fa-twitter",
+            "published": false
+        }
+    ],
+    "imageQuality": 90,
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Fahrradtasche",
+        "featureText": "<p class=\"mb-4\">Finde die perfekte Fahrradtasche für jeden Zweck.</p><p>Wir bieten eine riesige Auswahl an Fahrradtaschen an. Ob es eine Fahrradtasche für den Gepäckträger, als Rucksack oder sogar kombiniert werden soll, schau bei uns vorbei.</p><p>Jede Fahrradtasche in unserem Shop ist qualitativ hochwertig und wird auf folgende Kriterien geprüft:</p>",
+        "index": {
+            "title": "Fahrradtasche für zahlreiche Anwendungsgebiete | Shop",
+            "metaDescription": "Du bist auf der Suche nach einer passenden Fahrradtasche? Dann kannst du in unserem Shop online einkaufen. Top Marken und beste Preise bei fahrradtasche24.net. Preis-Leistungs-Garantie. Finde die richtige Fahrradtasche.",
+            "robots": "index, follow"
+        },
+        "shop": {
+            "title": "Alle Fahrradtaschen und Marken im Überblick.",
+            "metaDescription": "Jede Fahrradtasche und Marken im Überblick. Sortiert nach Kategorie. Preis-Leistungs-Garantie. Jetzt die richtige Fahrradtasche finden und vergleichen.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Alle Marken für Fahrradtaschen im Überblick",
+            "metaDescription": "Eine Auflistung aller Marken und Hersteller für Fahrradtaschen im Überblick. Von der Ortlieb Fahrradtasche bis hin zur Vaude Fahrradtasche, hier findest du alle Hersteller.",
+            "robots": "index, follow"
+        }
+    },
+    "productSeo": {
+        "defaultTitle": "$PRODUKT online kaufen | Fahrradtaschen Shop",
+        "defaultMetaDescription": "$PRODUKT vom $HERSTELLER günstig kaufen. Vergleiche die $PRODUKT mit anderen Produkten aus der Kategorie $KATEGORIE.",
+        "defaultRobots": "noindex, follow",
+        "products": [
+            {
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE | Der Online Shop für die richtige Fahrradtasche",
+        "defaultMetaDescription": "Alle $KATEGORIE im Überblick. Produkte und Testsieger.",
+        "defaultRobots": "noindex, follow",
+        "categories": [
+            {
+                "key": "fahrradtasche",
+                "slug": "fahrradtasche",
+                "name": "fahrradtasche",
+                "seo": {
+                    "title": "Fahrradtaschen günstig kaufen",
+                    "metaDescription": "Alle Fahrradtaschen im Überblick. Produkte und Testsieger. Finde die richtige Fahrradtasche mit Preis-Leistungs-Garantie",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "Produkte von $HERSTELLER | Fahrradtaschen Shop",
+        "defaultMetaDescription": "Alle Produkte von $HERSTELLER im Überblick im Fahrradtaschen Shop. Best-Preis-Garantie. Beliebte Produkte und Testsieger.",
+        "defaultRobots": "noindex, follow",
+        "brands": [
+            {
+                "key": "Ortlieb",
+                "name": "Ortlieb",
+                "seo": {
+                    "title": "Produkte von Ortlieb günstig kaufen",
+                    "metaDescription": "Alle Produkte von Ortlieb im Überblick. Produkte und Testsieger. Der Hersteller für eine robuste und langlebige Fahrradtasche und vieles mehr.",
+                    "robots": "index, follow"
+                }
+            },
+            {
+                "key": "Vaude",
+                "name": "Vaude",
+                "seo": {
+                    "title": "Produkte von Vaude günstig kaufen",
+                    "metaDescription": "Alle Produkte von Vaude im Überblick. Produkte und Testsieger. Der Hersteller für preiswerte Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "checklist": [
+        "Material",
+        "Atmungsaktivität",
+        "Wasserfestigkeit",
+        "Komfort",
+        "Vielfältigkeit",
+        "Extra Funktionen",
+        "Pflegbarkeit"
+    ],
+    "navigationLinks": [
+        {
+            "title": "Home",
+            "linkTo": "/",
+            "linkTitle": "Fahrradtasche",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Fahrradtaschen Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "publish": true,
+            "linkTo": "/marken/",
+            "linkTitle": "Fahrradtaschen Marken"
+        },
+        {
+            "title": "Kontakt",
+            "linkTitle": "Kontakt aufnehmen",
+            "linkTo": "#kontakt",
+            "publish": false
+        }
+    ]
+}
