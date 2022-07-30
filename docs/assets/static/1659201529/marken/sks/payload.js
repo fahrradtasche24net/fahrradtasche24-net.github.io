@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/sks", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/sks-anywhere-ohne-topcage-fahrradzubehoer-sks-5637218748.jpg":"\u002Fassets\u002Fimages\u002Fsks-anywhere-ohne-topcage-fahrradzubehoer-sks-5637218748.webp"}}],fetch:{},mutations:void 0});
