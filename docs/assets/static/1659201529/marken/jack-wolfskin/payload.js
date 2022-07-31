@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/jack-wolfskin", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/jack-wolfskin-neuron-fahrradrucksack-jack-wolfskin-5637654195.jpg":"\u002Fassets\u002Fimages\u002Fjack-wolfskin-neuron-fahrradrucksack-jack-wolfskin-5637654195.webp"}}],fetch:{},mutations:void 0});

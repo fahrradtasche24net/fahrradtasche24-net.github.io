@@ -13,17 +13,30 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
-    "socialMediaAccounts": [
-        {
-            "name": "Twitter",
-            "link": "https://www.twitter.com/fahrradtasche24.net",
-            "iconClass": "fab fa-twitter",
-            "published": false
-        }
+    "popularProducts": [
+        "5637775559",
+        "5637836254",
+        "5637661744"
     ],
+    "winnerProducts": [
+        "5637654195",
+        "5637724704",
+        "5637938147"
+    ],
+    "featuredCategories": [
+        "Satteltaschen",
+        "Lenkertaschen",
+        "Fahrradrucksäcke",
+        "Kartentaschen und Fahrradtaschenzubehör",
+        "Rahmentaschen",
+        "Fahrrad Gepäcktaschen"
+    ],
+    "socialMediaAccounts": [{
+        "name": "Twitter",
+        "link": "https://www.twitter.com/fahrradtasche24.net",
+        "iconClass": "fab fa-twitter",
+        "published": false
+    }],
     "imageQuality": 90,
     "seo": {
         "htmlLang": "de",
@@ -49,41 +62,36 @@
         "defaultTitle": "$PRODUKT online kaufen | Fahrradtaschen Shop",
         "defaultMetaDescription": "$PRODUKT vom $HERSTELLER günstig kaufen. Vergleiche die $PRODUKT mit anderen Produkten aus der Kategorie $KATEGORIE.",
         "defaultRobots": "noindex, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
+        "products": [{
+            "sku": "5637909794",
+            "name": "Ortovox PALA PANTS Kletterhose",
+            "seo": {
+                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                "robots": "index, follow"
             }
-        ]
+        }]
     },
     "categorySeo": {
         "defaultTitle": "$KATEGORIE | Der Online Shop für die richtige Fahrradtasche",
         "defaultMetaDescription": "Alle $KATEGORIE im Überblick. Produkte und Testsieger.",
         "defaultRobots": "noindex, follow",
-        "categories": [
-            {
-                "key": "fahrradtasche",
-                "slug": "fahrradtasche",
-                "name": "fahrradtasche",
-                "seo": {
-                    "title": "Fahrradtaschen günstig kaufen",
-                    "metaDescription": "Alle Fahrradtaschen im Überblick. Produkte und Testsieger. Finde die richtige Fahrradtasche mit Preis-Leistungs-Garantie",
-                    "robots": "index, follow"
-                }
+        "categories": [{
+            "key": "fahrradtasche",
+            "slug": "fahrradtasche",
+            "name": "fahrradtasche",
+            "seo": {
+                "title": "Fahrradtaschen günstig kaufen",
+                "metaDescription": "Alle Fahrradtaschen im Überblick. Produkte und Testsieger. Finde die richtige Fahrradtasche mit Preis-Leistungs-Garantie",
+                "robots": "index, follow"
             }
-        ]
+        }]
     },
     "brandSeo": {
         "defaultTitle": "Produkte von $HERSTELLER | Fahrradtaschen Shop",
         "defaultMetaDescription": "Alle Produkte von $HERSTELLER im Überblick im Fahrradtaschen Shop. Best-Preis-Garantie. Beliebte Produkte und Testsieger.",
         "defaultRobots": "noindex, follow",
-        "brands": [
-            {
+        "brands": [{
                 "key": "Ortlieb",
                 "name": "Ortlieb",
                 "seo": {
@@ -112,8 +120,7 @@
         "Extra Funktionen",
         "Pflegbarkeit"
     ],
-    "navigationLinks": [
-        {
+    "navigationLinks": [{
             "title": "Home",
             "linkTo": "/",
             "linkTitle": "Fahrradtasche",
