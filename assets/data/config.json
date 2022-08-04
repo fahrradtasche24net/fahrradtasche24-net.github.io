@@ -60,8 +60,8 @@
     },
     "productSeo": {
         "defaultTitle": "$PRODUKT online kaufen | Fahrradtaschen Shop",
-        "defaultMetaDescription": "$PRODUKT vom $HERSTELLER günstig kaufen. Vergleiche die $PRODUKT mit anderen Produkten aus der Kategorie $KATEGORIE.",
-        "defaultRobots": "noindex, follow",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER günstig bestellen im Fahrradtaschen Shop. Finde den besten Preis für das Produkt. $PRODUKT ist auf Lager.",
+        "defaultRobots": "index, follow",
         "products": [{
             "sku": "5637909794",
             "name": "Ortovox PALA PANTS Kletterhose",
@@ -73,9 +73,9 @@
         }]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE | Der Online Shop für die richtige Fahrradtasche",
-        "defaultMetaDescription": "Alle $KATEGORIE im Überblick. Produkte und Testsieger.",
-        "defaultRobots": "noindex, follow",
+        "defaultTitle": "$KATEGORIE | Fahrradtaschen Shop",
+        "defaultMetaDescription": "Alle $KATEGORIE im Überblick. Produkte und Testsieger. Jetzt günstig online bestellen. Mit Preis-Leistungs-Garantie. Produkte auf Lager.",
+        "defaultRobots": "index, follow",
         "categories": [{
             "key": "fahrradtasche",
             "slug": "fahrradtasche",
@@ -89,8 +89,8 @@
     },
     "brandSeo": {
         "defaultTitle": "Produkte von $HERSTELLER | Fahrradtaschen Shop",
-        "defaultMetaDescription": "Alle Produkte von $HERSTELLER im Überblick im Fahrradtaschen Shop. Best-Preis-Garantie. Beliebte Produkte und Testsieger.",
-        "defaultRobots": "noindex, follow",
+        "defaultMetaDescription": "Alle Produkte von $HERSTELLER im Fahrradtaschen Shop günstig online bestellen. Best-Preis-Garantie. Beliebte Produkte und Testsieger.",
+        "defaultRobots": "index, follow",
         "brands": [{
                 "key": "Ortlieb",
                 "name": "Ortlieb",
