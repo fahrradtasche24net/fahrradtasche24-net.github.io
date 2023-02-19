@@ -32,12 +32,14 @@
         "Rahmentaschen",
         "Fahrrad Gepäcktaschen"
     ],
-    "socialMediaAccounts": [{
-        "name": "Twitter",
-        "link": "https://www.twitter.com/fahrradtasche24.net",
-        "iconClass": "fab fa-twitter",
-        "published": false
-    }],
+    "socialMediaAccounts": [
+        {
+            "name": "Twitter",
+            "link": "https://www.twitter.com/fahrradtasche24.net",
+            "iconClass": "fab fa-twitter",
+            "published": false
+        }
+    ],
     "imageQuality": 90,
     "seo": {
         "htmlLang": "de",
@@ -46,7 +48,45 @@
         "index": {
             "title": "Fahrradtasche für zahlreiche Anwendungsgebiete | Shop",
             "metaDescription": "Du bist auf der Suche nach einer passenden Fahrradtasche? Dann kannst du in unserem Shop online einkaufen. Top Marken und beste Preise bei fahrradtasche24.net. Preis-Leistungs-Garantie. Finde die richtige Fahrradtasche.",
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "texts": [
+                {
+                    "title": "Willkommen bei Fahrradtasche24",
+                    "text": "Herzlich willkommen auf Fahrradtasche24 - Ihrem Online-Shop für hochwertige Fahrradtaschen und Zubehör. Bei uns finden Sie eine große Auswahl an Produkten, die perfekt auf die Bedürfnisse von Fahrradfahrern abgestimmt sind."
+                },
+                {
+                    "title": "Kartentaschen und Fahrradtaschenzubehör",
+                    "text": "Entdecken Sie unsere große Auswahl an <a href=\"/kategorie/kartentaschen-und-fahrradtaschenzubehoer/\" title=\"Kartentaschen und Fahrradtaschenzubehör\">Kartentaschen und Fahrradtaschenzubehör</a>. Wir bieten Ihnen hochwertige Produkte, die Sie auf all Ihren Touren begleiten werden. Bei uns finden Sie alles, was Sie für Ihr nächstes Abenteuer benötigen."
+                },
+                {
+                    "title": "Umhängetaschen und Office Bags",
+                    "text": "In dieser Kategorie finden Sie eine große Auswahl an <a href=\"/kategorie/umhaengetaschen-und-office-bags/\" title=\"Umhängetaschen und Office Bags\">Umhängetaschen und Office Bags</a>. Unsere Produkte sind nicht nur praktisch, sondern auch stylisch und lassen Sie auch im Büro gut aussehen. Entdecken Sie jetzt unsere vielfältige Auswahl."
+                },
+                {
+                    "title": "Fahrradrucksäcke",
+                    "text": "Unsere <a href=\"/kategorie/fahrradrucksaecke/\" title=\"Fahrradrucksäcke\">Fahrradrucksäcke</a> sind der perfekte Begleiter für längere Touren und Radreisen. Wir bieten Ihnen eine große Auswahl an unterschiedlichen Modellen und Größen, sodass Sie garantiert den passenden Rucksack finden werden. Entdecken Sie jetzt unsere Auswahl an Fahrradrucksäcken."
+                },
+                {
+                    "title": "Fahrrad Gepäcktaschen",
+                    "text": "Unsere <a href=\"/kategorie/fahrrad-gepaecktaschen/\" title=\"Fahrrad Gepäcktaschen\">Fahrrad Gepäcktaschen</a> sind der ideale Begleiter für Ihre nächste Fahrradtour. Wir bieten Ihnen eine große Auswahl an verschiedenen Modellen und Größen, sodass Sie garantiert die passende Gepäcktasche finden werden. Entdecken Sie jetzt unsere Auswahl an Fahrrad Gepäcktaschen."
+                },
+                {
+                    "title": "Lenkertaschen",
+                    "text": "Unsere <a href=\"/kategorie/lenkertaschen/\" title=\"Lenkertaschen\">Lenkertaschen</a> bieten Ihnen die perfekte Möglichkeit, wichtige Utensilien immer griffbereit zu haben. Wir bieten Ihnen eine große Auswahl an verschiedenen Modellen und Größen, sodass Sie garantiert die passende Lenkertasche finden werden. Entdecken Sie jetzt unsere Auswahl an Lenkertaschen."
+                },
+                {
+                    "title": "Rahmentaschen",
+                    "text": "Unsere <a href=\"/kategorie/rahmentaschen/\" title=\"Rahmentaschen\">Rahmentaschen</a> sind der perfekte Begleiter für längere Fahrradtouren. Bei uns finden Sie eine große Auswahl an verschiedenen Modellen und Größen, sodass Sie garantiert die passende Rahmentasche finden werden. Entdecken Sie jetzt unsere Auswahl an Rahmentaschen."
+                },
+                {
+                    "title": "Satteltaschen",
+                    "text": "Unsere <a href=\"/kategorie/satteltaschen/\" title=\"Satteltaschen\">Satteltaschen</a> bieten Ihnen den perfekten Stauraum für wichtige Utensilien auf Ihren Fahrradtouren. Wir bieten Ihnen eine große Auswahl an verschiedenen Modellen und Größen, sodass Sie garantiert die passende Satteltasche finden werden. Entdecken Sie jetzt unsere Auswahl an Satteltaschen."
+                },
+                {
+                    "title": "Vielen Dank für Ihren Besuch bei Fahrradtasche24",
+                    "text": "Wir hoffen, dass Sie bei uns das passende Produkt gefunden haben und sind uns sicher, dass Sie mit Ihrer Bestellung zufrieden sein werden. Bei Fragen oder Anregungen stehen wir Ihnen gerne zur Verfügung. Bestellen Sie jetzt bequem und einfach online und lassen Sie sich von unserem schnellen und zuverlässigen Versand überzeugen."
+                }
+            ]
         },
         "shop": {
             "title": "Alle Fahrradtaschen und Marken im Überblick.",
@@ -63,36 +103,41 @@
         "defaultTitle": "$PRODUKT online kaufen | Fahrradtaschen Shop",
         "defaultMetaDescription": "$PRODUKT von $HERSTELLER günstig bestellen im Fahrradtaschen Shop. Finde den besten Preis für das Produkt. $PRODUKT ist auf Lager.",
         "defaultRobots": "index, follow",
-        "products": [{
-            "sku": "5637909794",
-            "name": "Ortovox PALA PANTS Kletterhose",
-            "seo": {
-                "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                "robots": "index, follow"
+        "products": [
+            {
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
     "categorySeo": {
         "defaultTitle": "$KATEGORIE | Fahrradtaschen Shop",
         "defaultMetaDescription": "Alle $KATEGORIE im Überblick. Produkte und Testsieger. Jetzt günstig online bestellen. Mit Preis-Leistungs-Garantie. Produkte auf Lager.",
         "defaultRobots": "index, follow",
-        "categories": [{
-            "key": "fahrradtasche",
-            "slug": "fahrradtasche",
-            "name": "fahrradtasche",
-            "seo": {
-                "title": "Fahrradtaschen günstig kaufen",
-                "metaDescription": "Alle Fahrradtaschen im Überblick. Produkte und Testsieger. Finde die richtige Fahrradtasche mit Preis-Leistungs-Garantie",
-                "robots": "index, follow"
+        "categories": [
+            {
+                "key": "fahrradtasche",
+                "slug": "fahrradtasche",
+                "name": "fahrradtasche",
+                "seo": {
+                    "title": "Fahrradtaschen günstig kaufen",
+                    "metaDescription": "Alle Fahrradtaschen im Überblick. Produkte und Testsieger. Finde die richtige Fahrradtasche mit Preis-Leistungs-Garantie",
+                    "robots": "index, follow"
+                }
             }
-        }]
+        ]
     },
     "brandSeo": {
         "defaultTitle": "Produkte von $HERSTELLER | Fahrradtaschen Shop",
         "defaultMetaDescription": "Alle Produkte von $HERSTELLER im Fahrradtaschen Shop günstig online bestellen. Best-Preis-Garantie. Beliebte Produkte und Testsieger.",
         "defaultRobots": "index, follow",
-        "brands": [{
+        "brands": [
+            {
                 "key": "Ortlieb",
                 "name": "Ortlieb",
                 "seo": {
@@ -121,7 +166,8 @@
         "Extra Funktionen",
         "Pflegbarkeit"
     ],
-    "navigationLinks": [{
+    "navigationLinks": [
+        {
             "title": "Home",
             "linkTo": "/",
             "linkTitle": "Fahrradtasche",
