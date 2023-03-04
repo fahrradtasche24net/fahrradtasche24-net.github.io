@@ -1,1 +1,51 @@
-[{"key": "kartentaschen und fahrradtaschenzubehör", "name": "Kartentaschen und Fahrradtaschenzubehör", "slug": "kartentaschen-und-fahrradtaschenzubehoer", "productCategory": "Kartentaschen und Fahrradtaschenzubehör", "subCategories": []}, {"key": "umhängetaschen und office bags", "name": "Umhängetaschen und Office Bags", "slug": "umhaengetaschen-und-office-bags", "productCategory": "Umhängetaschen und Office Bags", "subCategories": []}, {"key": "fahrradrucksäcke", "name": "Fahrradrucksäcke", "slug": "fahrradrucksaecke", "productCategory": "Fahrradrucksäcke", "subCategories": []}, {"key": "fahrrad gepäcktaschen", "name": "Fahrrad Gepäcktaschen", "slug": "fahrrad-gepaecktaschen", "productCategory": "Fahrrad Gepäcktaschen", "subCategories": []}, {"key": "lenkertaschen", "name": "Lenkertaschen", "slug": "lenkertaschen", "productCategory": "Lenkertaschen", "subCategories": []}, {"key": "rahmentaschen", "name": "Rahmentaschen", "slug": "rahmentaschen", "productCategory": "Rahmentaschen", "subCategories": []}, {"key": "satteltaschen", "name": "Satteltaschen", "slug": "satteltaschen", "productCategory": "Satteltaschen", "subCategories": []}]
+[
+    {
+        "key": "kartentaschen und fahrradtaschenzubehör",
+        "name": "Kartentaschen und Fahrradtaschenzubehör",
+        "slug": "kartentaschen-und-fahrradtaschenzubehoer",
+        "productCategory": "Kartentaschen und Fahrradtaschenzubehör",
+        "subCategories": []
+    },
+    {
+        "key": "umhängetaschen und office bags",
+        "name": "Umhängetaschen und Office Bags",
+        "slug": "umhaengetaschen-und-office-bags",
+        "productCategory": "Umhängetaschen und Office Bags",
+        "subCategories": []
+    },
+    {
+        "key": "fahrradrucksäcke",
+        "name": "Fahrradrucksäcke",
+        "slug": "fahrradrucksaecke",
+        "productCategory": "Fahrradrucksäcke",
+        "subCategories": []
+    },
+    {
+        "key": "fahrrad gepäcktaschen",
+        "name": "Fahrrad Gepäcktaschen",
+        "slug": "fahrrad-gepaecktaschen",
+        "productCategory": "Fahrrad Gepäcktaschen",
+        "subCategories": []
+    },
+    {
+        "key": "lenkertaschen",
+        "name": "Lenkertaschen",
+        "slug": "lenkertaschen",
+        "productCategory": "Lenkertaschen",
+        "subCategories": []
+    },
+    {
+        "key": "rahmentaschen",
+        "name": "Rahmentaschen",
+        "slug": "rahmentaschen",
+        "productCategory": "Rahmentaschen",
+        "subCategories": []
+    },
+    {
+        "key": "satteltaschen",
+        "name": "Satteltaschen",
+        "slug": "satteltaschen",
+        "productCategory": "Satteltaschen",
+        "subCategories": []
+    }
+]
