@@ -1,252 +1,259 @@
 {
-  "configIsReady": true,
-  "domain": "fahrradtasche24.net",
-  "hostname": "https://www.fahrradtasche24.net",
-  "email": "fahrradtasche24.net@surrealnetworks.io",
-  "organization": "fahrradtasche24.net",
-  "logoText": "Fahrradtasche24.net",
-  "title": "Fahrradtasche für viele Einsatzgebiete",
-  "subline": "Die für dich perfekte Fahrradtasche findest du bei uns.",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "5637775559",
-    "5637836254",
-    "5637661744"
-  ],
-  "winnerProducts": [
-    "5637654195",
-    "5637724704",
-    "5637938147"
-  ],
-  "featuredCategories": [
-    "Satteltaschen",
-    "Lenkertaschen",
-    "Fahrradrucksäcke",
-    "Kartentaschen und Fahrradtaschenzubehör",
-    "Rahmentaschen",
-    "Fahrrad Gepäcktaschen"
-  ],
-  "socialMediaAccounts": [
-    {
-      "name": "Twitter",
-      "link": "https://www.twitter.com/fahrradtasche24.net",
-      "iconClass": "fab fa-twitter",
-      "published": false
-    }
-  ],
-  "imageQuality": 90,
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Fahrradtasche",
-    "featureText": "<p class=\"mb-4\">Finde die perfekte Fahrradtasche für jeden Zweck.</p><p>Wir bieten eine riesige Auswahl an Fahrradtaschen an. Ob es eine Fahrradtasche für den Gepäckträger, als Rucksack oder sogar kombiniert werden soll, schau bei uns vorbei.</p><p>Jede Fahrradtasche in unserem Shop ist qualitativ hochwertig und wird auf folgende Kriterien geprüft:</p>",
-    "index": {
-      "title": "Fahrradtasche für zahlreiche Anwendungsgebiete | Shop",
-      "metaDescription": "Du bist auf der Suche nach einer passenden Fahrradtasche? Dann kannst du in unserem Shop online einkaufen. Top Marken und beste Preise bei fahrradtasche24.net. Preis-Leistungs-Garantie. Finde die richtige Fahrradtasche.",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Fahrradtasche24.net",
-            "text": "Herzlich willkommen bei Fahrradtasche24.net, Ihrem Online-Shop für hochwertige Fahrradtaschen und Zubehör. Bei uns finden Sie eine große Auswahl an Produkten, die Ihnen dabei helfen, Ihr Fahrrad sicher und bequem zu transportieren. Unsere Produktkategorien reichen von praktischen Kartentaschen und Fahrradtaschenzubehör bis hin zu modischen Umhängetaschen und Office Bags. Wir haben auch eine große Auswahl an Fahrradrucksäcken, Fahrradgepäcktaschen, Lenkertaschen, Rahmentaschen und Satteltaschen. Egal, ob Sie eine Tasche für den täglichen Gebrauch oder für längere Fahrradtouren suchen, bei Fahrradtasche24.net werden Sie fündig.Unser Ziel ist es, Ihnen hochwertige Produkte zu erschwinglichen Preisen anzubieten. Wir legen großen Wert auf Kundenzufriedenheit und bieten Ihnen einen hervorragenden Kundenservice.Schauen Sie sich jetzt unsere Produkte an und finden Sie die perfekte Fahrradtasche für Ihre Bedürfnisse. Wir sind sicher, dass Sie bei Fahrradtasche24.net genau das finden werden, wonach Sie suchen."
-          },
-          {
-            "title": "Kartentaschen und Fahrradtaschenzubehör",
-            "text": "Entdecken Sie unsere große Auswahl an <a href=\"/kategorie/kartentaschen-und-fahrradtaschenzubehoer/\" title=\"Kartentaschen und Fahrradtaschenzubehör\">Kartentaschen und Fahrradtaschenzubehör</a>. Unsere Taschen sind robust, langlebig und bieten eine hervorragende Aufbewahrungslösung für Ihre wichtigen Gegenstände. Ob Sie eine praktische Lösung für den Alltag oder eine sportliche Fahrradtasche für Ihre Ausflüge suchen, wir haben das Richtige für Sie. Alle unsere Taschen sind in verschiedenen Größen und Farben erhältlich und bieten Platz für alles, was Sie unterwegs benötigen."
-          },
-          {
-            "title": "Umhängetaschen und Office Bags",
-            "text": "Unsere <a href=\"/kategorie/umhaengetaschen-und-office-bags/\" title=\"Umhängetaschen und Office Bags\">Umhängetaschen und Office Bags</a> sind die perfekte Wahl für alle, die Stil und Funktionalität schätzen. Diese Taschen sind perfekt für den Einsatz im Büro, auf Reisen oder für den täglichen Gebrauch. Mit einer Vielzahl von Taschen und Größen zur Auswahl, finden Sie bei uns garantiert die perfekte Tasche für Ihre Bedürfnisse. Unsere Taschen sind aus hochwertigen Materialien gefertigt und bieten maximale Strapazierfähigkeit und Langlebigkeit."
-          },
-          {
-            "title": "Fahrradrucksäcke",
-            "text": "Wir bieten eine breite Auswahl an <a href=\"/kategorie/fahrradrucksaecke/\" title=\"Fahrradrucksäcke\">Fahrradrucksäcke</a>n, die perfekt für alle Radfahrer und Outdoor-Enthusiasten geeignet sind. Unsere Rucksäcke sind bequem, langlebig und bieten viel Platz für alles, was Sie unterwegs benötigen. Ob Sie auf einer längeren Fahrradtour sind oder nur kurz einkaufen gehen, unsere Fahrradrucksäcke sind die perfekte Lösung. Alle unsere Rucksäcke sind in verschiedenen Größen und Farben erhältlich und bieten eine praktische Möglichkeit, Ihre Gegenstände unterwegs sicher zu verstauen."
-          },
-          {
-            "title": "Fahrrad Gepäcktaschen",
-            "text": "Entdecken Sie unsere große Auswahl an <a href=\"/kategorie/fahrrad-gepaecktaschen/\" title=\"Fahrrad Gepäcktaschen\">Fahrrad Gepäcktaschen</a>. Unsere Taschen sind robust, langlebig und bieten eine hervorragende Aufbewahrungslösung für Ihre wichtigen Gegenstände während Ihrer Fahrradtouren. Wir haben eine Vielzahl von Taschen in verschiedenen Größen und Farben zur Verfügung, um Ihren Anforderungen gerecht zu werden. Ob Sie eine große Tasche für längere Touren benötigen oder eine kleinere Tasche für den täglichen Gebrauch, wir haben das Richtige für Sie."
-          },
-          {
-            "title": "Lenkertaschen",
-            "text": "Unsere <a href=\"/kategorie/lenkertaschen/\" title=\"Lenkertaschen\">Lenkertaschen</a> sind die perfekte Wahl für alle, die bequem und praktisch unterwegs sein möchten. Diese Taschen bieten eine einfache Möglichkeit, Ihre wichtigen Gegenstände während der Fahrt griffbereit zu haben. Unsere Lenkertaschen sind in verschiedenen Größen und Farben erhältlich und aus hochwertigen Materialien gefertigt, um maximale Strapazierfähigkeit und Langlebigkeit zu gewährleisten."
-          },
-          {
-            "title": "Rahmentaschen",
-            "text": "Unsere <a href=\"/kategorie/rahmentaschen/\" title=\"Rahmentaschen\">Rahmentaschen</a> sind die perfekte Ergänzung für Ihr Fahrrad. Diese Taschen bieten eine praktische Möglichkeit, Ihre Gegenstände sicher und bequem zu verstauen, während Sie unterwegs sind. Ob Sie auf einer längeren Fahrradtour sind oder nur kurz einkaufen gehen, unsere Rahmentaschen sind die perfekte Lösung. Alle unsere Taschen sind in verschiedenen Größen und Farben erhältlich und bieten maximale Strapazierfähigkeit und Langlebigkeit."
-          },
-          {
-            "title": "Satteltaschen",
-            "text": "Entdecken Sie unsere große Auswahl an <a href=\"/kategorie/satteltaschen/\" title=\"Satteltaschen\">Satteltaschen</a>. Unsere Taschen bieten eine praktische Möglichkeit, Ihre wichtigen Gegenstände während Ihrer Fahrradtouren sicher zu verstauen. Wir haben eine Vielzahl von Taschen in verschiedenen Größen und Farben zur Verfügung, um Ihren Anforderungen gerecht zu werden. Alle unsere Taschen sind aus hochwertigen Materialien gefertigt und bieten maximale Strapazierfähigkeit und Langlebigkeit."
-          }
+    "configIsReady": true,
+    "domain": "fahrradtasche24.net",
+    "hostname": "https://www.fahrradtasche24.net",
+    "email": "fahrradtasche24.net@surrealnetworks.io",
+    "organization": "fahrradtasche24.net",
+    "logoText": "Fahrradtasche24.net",
+    "title": "Fahrradtasche für viele Einsatzgebiete",
+    "subline": "Die für dich perfekte Fahrradtasche findest du bei uns.",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "5637775559",
+        "5637836254",
+        "5637661744"
+    ],
+    "winnerProducts": [
+        "5637654195",
+        "5637724704",
+        "5637938147"
+    ],
+    "featuredCategories": [
+        "Satteltaschen",
+        "Lenkertaschen",
+        "Fahrradrucksäcke",
+        "Kartentaschen und Fahrradtaschenzubehör",
+        "Rahmentaschen",
+        "Fahrrad Gepäcktaschen"
+    ],
+    "socialMediaAccounts": [
+        {
+            "name": "Twitter",
+            "link": "https://www.twitter.com/fahrradtasche24.net",
+            "iconClass": "fab fa-twitter",
+            "published": false
+        }
+    ],
+    "imageQuality": 90,
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Fahrradtasche",
+        "featureText": "<p class=\"mb-4\">Finde die perfekte Fahrradtasche für jeden Zweck.</p><p>Wir bieten eine riesige Auswahl an Fahrradtaschen an. Ob es eine Fahrradtasche für den Gepäckträger, als Rucksack oder sogar kombiniert werden soll, schau bei uns vorbei.</p><p>Jede Fahrradtasche in unserem Shop ist qualitativ hochwertig und wird auf folgende Kriterien geprüft:</p>",
+        "index": {
+            "title": "Fahrradtasche für zahlreiche Anwendungsgebiete | Shop",
+            "metaDescription": "Du bist auf der Suche nach einer passenden Fahrradtasche? Dann kannst du in unserem Shop online einkaufen. Top Marken und beste Preise bei fahrradtasche24.net. Preis-Leistungs-Garantie. Finde die richtige Fahrradtasche.",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Fahrradtasche24.net",
+                        "text": "Herzlich willkommen bei Fahrradtasche24.net, Ihrem Online-Shop für hochwertige Fahrradtaschen und Zubehör. Bei uns finden Sie eine große Auswahl an Produkten, die Ihnen dabei helfen, Ihr Fahrrad sicher und bequem zu transportieren. Unsere Produktkategorien reichen von praktischen Kartentaschen und Fahrradtaschenzubehör bis hin zu modischen Umhängetaschen und Office Bags. Wir haben auch eine große Auswahl an Fahrradrucksäcken, Fahrradgepäcktaschen, Lenkertaschen, Rahmentaschen und Satteltaschen. Egal, ob Sie eine Tasche für den täglichen Gebrauch oder für längere Fahrradtouren suchen, bei Fahrradtasche24.net werden Sie fündig.Unser Ziel ist es, Ihnen hochwertige Produkte zu erschwinglichen Preisen anzubieten. Wir legen großen Wert auf Kundenzufriedenheit und bieten Ihnen einen hervorragenden Kundenservice.Schauen Sie sich jetzt unsere Produkte an und finden Sie die perfekte Fahrradtasche für Ihre Bedürfnisse. Wir sind sicher, dass Sie bei Fahrradtasche24.net genau das finden werden, wonach Sie suchen."
+                    },
+                    {
+                        "title": "Kartentaschen und Fahrradtaschenzubehör",
+                        "text": "Entdecken Sie unsere große Auswahl an <a href=\"/kategorie/kartentaschen-und-fahrradtaschenzubehoer/\" title=\"Kartentaschen und Fahrradtaschenzubehör\">Kartentaschen und Fahrradtaschenzubehör</a>. Unsere Taschen sind robust, langlebig und bieten eine hervorragende Aufbewahrungslösung für Ihre wichtigen Gegenstände. Ob Sie eine praktische Lösung für den Alltag oder eine sportliche Fahrradtasche für Ihre Ausflüge suchen, wir haben das Richtige für Sie. Alle unsere Taschen sind in verschiedenen Größen und Farben erhältlich und bieten Platz für alles, was Sie unterwegs benötigen."
+                    },
+                    {
+                        "title": "Umhängetaschen und Office Bags",
+                        "text": "Unsere <a href=\"/kategorie/umhaengetaschen-und-office-bags/\" title=\"Umhängetaschen und Office Bags\">Umhängetaschen und Office Bags</a> sind die perfekte Wahl für alle, die Stil und Funktionalität schätzen. Diese Taschen sind perfekt für den Einsatz im Büro, auf Reisen oder für den täglichen Gebrauch. Mit einer Vielzahl von Taschen und Größen zur Auswahl, finden Sie bei uns garantiert die perfekte Tasche für Ihre Bedürfnisse. Unsere Taschen sind aus hochwertigen Materialien gefertigt und bieten maximale Strapazierfähigkeit und Langlebigkeit."
+                    },
+                    {
+                        "title": "Fahrradrucksäcke",
+                        "text": "Wir bieten eine breite Auswahl an <a href=\"/kategorie/fahrradrucksaecke/\" title=\"Fahrradrucksäcke\">Fahrradrucksäcke</a>n, die perfekt für alle Radfahrer und Outdoor-Enthusiasten geeignet sind. Unsere Rucksäcke sind bequem, langlebig und bieten viel Platz für alles, was Sie unterwegs benötigen. Ob Sie auf einer längeren Fahrradtour sind oder nur kurz einkaufen gehen, unsere Fahrradrucksäcke sind die perfekte Lösung. Alle unsere Rucksäcke sind in verschiedenen Größen und Farben erhältlich und bieten eine praktische Möglichkeit, Ihre Gegenstände unterwegs sicher zu verstauen."
+                    },
+                    {
+                        "title": "Fahrrad Gepäcktaschen",
+                        "text": "Entdecken Sie unsere große Auswahl an <a href=\"/kategorie/fahrrad-gepaecktaschen/\" title=\"Fahrrad Gepäcktaschen\">Fahrrad Gepäcktaschen</a>. Unsere Taschen sind robust, langlebig und bieten eine hervorragende Aufbewahrungslösung für Ihre wichtigen Gegenstände während Ihrer Fahrradtouren. Wir haben eine Vielzahl von Taschen in verschiedenen Größen und Farben zur Verfügung, um Ihren Anforderungen gerecht zu werden. Ob Sie eine große Tasche für längere Touren benötigen oder eine kleinere Tasche für den täglichen Gebrauch, wir haben das Richtige für Sie."
+                    },
+                    {
+                        "title": "Lenkertaschen",
+                        "text": "Unsere <a href=\"/kategorie/lenkertaschen/\" title=\"Lenkertaschen\">Lenkertaschen</a> sind die perfekte Wahl für alle, die bequem und praktisch unterwegs sein möchten. Diese Taschen bieten eine einfache Möglichkeit, Ihre wichtigen Gegenstände während der Fahrt griffbereit zu haben. Unsere Lenkertaschen sind in verschiedenen Größen und Farben erhältlich und aus hochwertigen Materialien gefertigt, um maximale Strapazierfähigkeit und Langlebigkeit zu gewährleisten."
+                    },
+                    {
+                        "title": "Rahmentaschen",
+                        "text": "Unsere <a href=\"/kategorie/rahmentaschen/\" title=\"Rahmentaschen\">Rahmentaschen</a> sind die perfekte Ergänzung für Ihr Fahrrad. Diese Taschen bieten eine praktische Möglichkeit, Ihre Gegenstände sicher und bequem zu verstauen, während Sie unterwegs sind. Ob Sie auf einer längeren Fahrradtour sind oder nur kurz einkaufen gehen, unsere Rahmentaschen sind die perfekte Lösung. Alle unsere Taschen sind in verschiedenen Größen und Farben erhältlich und bieten maximale Strapazierfähigkeit und Langlebigkeit."
+                    },
+                    {
+                        "title": "Satteltaschen",
+                        "text": "Entdecken Sie unsere große Auswahl an <a href=\"/kategorie/satteltaschen/\" title=\"Satteltaschen\">Satteltaschen</a>. Unsere Taschen bieten eine praktische Möglichkeit, Ihre wichtigen Gegenstände während Ihrer Fahrradtouren sicher zu verstauen. Wir haben eine Vielzahl von Taschen in verschiedenen Größen und Farben zur Verfügung, um Ihren Anforderungen gerecht zu werden. Alle unsere Taschen sind aus hochwertigen Materialien gefertigt und bieten maximale Strapazierfähigkeit und Langlebigkeit."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Alle Fahrradtaschen und Marken im Überblick.",
+            "metaDescription": "Jede Fahrradtasche und Marken im Überblick. Sortiert nach Kategorie. Preis-Leistungs-Garantie. Jetzt die richtige Fahrradtasche finden und vergleichen.",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Alle Marken für Fahrradtaschen im Überblick",
+            "metaDescription": "Eine Auflistung aller Marken und Hersteller für Fahrradtaschen im Überblick. Von der Ortlieb Fahrradtasche bis hin zur Vaude Fahrradtasche, hier findest du alle Hersteller.",
+            "robots": "index, follow"
+        }
+    },
+    "productSeo": {
+        "defaultTitle": "$PRODUKT online kaufen | Fahrradtaschen Shop",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER günstig bestellen im Fahrradtaschen Shop. Finde den besten Preis für das Produkt. $PRODUKT ist auf Lager.",
+        "defaultRobots": "index, follow",
+        "products": [
+            {
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
+            },
+            {
+                "sku": "5637654195",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Jack Wolfskin NEURON Fahrradrucksack: Vielseitigkeit und Qualität vereint",
+                            "text": "<p class=\"justify\">Der Jack Wolfskin NEURON Fahrradrucksack (SKU: 5637654195) ist der ideale Begleiter für alle, die auf der Suche nach einem hochwertigen und zuverlässigen Rucksack für ihre Fahrradtouren sind. Die Marke Jack Wolfskin ist bekannt für ihre erstklassige Qualität und Funktionalität und dieses Produkt bildet da keine Ausnahme. Der NEURON Fahrradrucksack ist in der Farbe Schwarz erhältlich und fügt sich somit nahtlos in jedes Outfit ein.</p><p class=\"justify\">Egal, ob Sie zur Arbeit pendeln, durch die Stadt radeln oder eine längere Tour planen – dieser Fahrradrucksack bietet ausreichend Platz für Ihre Ausrüstung und Habseligkeiten. Mit dem Fokus auf Komfort und Funktionalität verfügt der NEURON über durchdachte Details, die Ihnen das Leben erleichtern. Die verschiedenen Kategorien, wie Start, Ausrüstung, Fahrrad, Fahrradtaschen und Fahrradrucksäcke, NEURON, zeigen deutlich die Vielfalt und Einsatzbereiche dieses Rucksacks auf.</p><p class=\"justify\">Zu den Highlights dieses Rucksacks gehören die ergonomischen Schultergurte, welche für höchsten Tragekomfort sorgen, sowie ein integriertes Belüftungssystem, das für eine optimale Luftzirkulation sorgt und unangenehme Schweißbildung vermindert. Eine Vielzahl von Fächern und Taschen ermöglicht es, Ihre Ausrüstung und persönlichen Gegenstände übersichtlich und geordnet zu verstauen. Der Rucksack bietet ausreichend Platz für alles, von Ihrer Trinkflasche, über Werkzeuge bis hin zu Ersatzkleidung und Verpflegung.</p><p class=\"justify\">Mit einer durchschnittlichen Kundenbewertung von 5 Sternen und beeindruckenden 389 Rezensionen, spricht die Qualität und Zufriedenheit der Kunden für sich. Entscheiden Sie sich für den Jack Wolfskin NEURON Fahrradrucksack und profitieren Sie von der herausragenden Qualität und dem Know-how der renommierten Marke Jack Wolfskin. Dieser Rucksack wird Ihnen auf jeder Tour ein treuer Begleiter sein und Ihnen den nötigen Freiraum für Ihr persönliches Abenteuer bieten.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5637724704",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Ortlieb ULTIMATE SIX CLASSIC Lenkertasche - Fahrradtaschen",
+                            "text": "<p class=\"justify\">Die Ortlieb ULTIMATE SIX CLASSIC Lenkertasche ist die perfekte Wahl für jeden Fahrradfahrer, der Wert auf Qualität und Funktionalität legt. Diese hochwertige und langlebige Lenkertasche aus dem Hause Ortlieb ist in der Farbe Schwarz erhältlich und bietet ausreichend Stauraum für all Ihre wichtigen Gegenstände unterwegs.</p><p class=\"justify\">Entworfen für den alltäglichen Einsatz auf Ihrem Fahrrad, passt die Ortlieb ULTIMATE SIX CLASSIC perfekt in die Kategorie Fahrradtaschen und Fahrradrucksäcke. Sie gehört zur Produktreihe ULTIMATE SIX CLASSIC und lässt sich einfach an Ihrem Lenker befestigen, sodass Sie während der Fahrt problemlos auf Ihre Sachen zugreifen können.</p><p class=\"justify\">Die Ortlieb Lenkertasche überzeugt durch ihre hohe Qualität und Strapazierfähigkeit. Hergestellt aus robusten Materialien, ist sie bestens für den täglichen Gebrauch und widrigste Witterungsbedingungen gerüstet. Die Tasche ist leicht und einfach zu nutzen, sodass Sie hervorragenden Komfort und Praktikabilität erfahren.</p><p class=\"justify\">Mit der Ortlieb ULTIMATE SIX CLASSIC Lenkertasche entscheiden Sie sich für ein Produkt, das Ihnen unabhängig von der Streckenlänge und den Wetterbedingungen treu zur Seite steht. Über 395 Kundenbewertungen mit durchschnittlich 4 Sternen bestätigen die hohe Kundenzufriedenheit. Das positive Feedback spricht für die Qualität und Zuverlässigkeit dieser einzigartigen Lenkertasche.</p><p class=\"justify\">Begeistern Sie sich selbst von der Ortlieb ULTIMATE SIX CLASSIC Lenkertasche und erleben Sie die Kombination aus erstklassigem Design, hoher Funktionalität und Langlebigkeit. Sie werden feststellen, dass diese Lenkertasche Ihre Fahrradfahrten noch angenehmer gestaltet und Ihnen eine äußerst praktische Lösung zur Aufbewahrung Ihrer persönlichen Gegenstände bietet.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5637938147",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Thule ROUNDTRIP BIKE DUFFEL Reisetasche - Perfekt für Fahrradliebhaber",
+                            "text": "<p class=\"justify\">Die Thule ROUNDTRIP BIKE DUFFEL Reisetasche ist eine ideale Lösung für alle Fahrrad-Enthusiasten, die ihre Ausrüstung sicher und stilvoll transportieren möchten. Diese praktische Fahrradtasche von Thule, der renommierten Marke für hochwertige Transportlösungen, bietet Ihnen die perfekte Mischung aus Qualität, Design und Funktionalität.</p><p class=\"justify\">Verfügbar in der Farbe Schwarz, passt die Thule ROUNDTRIP BIKE DUFFEL Reisetasche zu jeder Fahrradausrüstung und wird durch ihre raffinierten Details und ihr attraktives Design schnell zum Hingucker. Mit einem Fassungsvermögen von 50 Litern bietet sie ausreichend Platz für Ihre Fahrradbekleidung, Schuhe und Zubehör und ist dank ihrer cleveren Innenaufteilung äußerst benutzerfreundlich.</p><p class=\"justify\">Die aus strapazierfähigem Material gefertigte Tasche verfügt über getrennte Fächer für Helm, Schuhe und Kleidung, sodass Ihre Ausrüstung während der Reise gut geschützt und organisiert bleibt. Ausgestattet mit Tragegriffen und einem abnehmbaren, gepolsterten Schultergurt, ermöglicht die ROUNDTRIP BIKE DUFFEL einen bequemen Transport - egal, ob Sie zu einem Wochenendausflug unterwegs sind oder Ihre nächste große Rennveranstaltung besuchen.</p><p class=\"justify\">Das sku 5637938147 der ROUNDTRIP BIKE DUFFEL Reisetasche unterstreicht ihre Einzigartigkeit und Exklusivität im Bereich der Fahrradtaschen und Fahrradrucksäcke. Diese Tasche gehört zur Kategorie Fahrrad Gepäcktaschen und wird von 385 zufriedenen Kunden mit 4 Sternen bewertet, was ihre hohe Qualität und Kundenzufriedenheit verdeutlicht.</p><p class=\"justify\">Kurz gesagt, die Thule ROUNDTRIP BIKE DUFFEL Reisetasche ist die perfekte Wahl für jeden Fahrradfahrer, der Wert auf Komfort, Sicherheit und Stil legt. Sie bietet ausreichend Stauraum, erstklassige Organisation und außergewöhnliche Haltbarkeit - alles, was Sie von einer hochwertigen Reisetasche erwarten dürfen. Gönnen Sie sich und Ihrer Ausrüstung diese herausragende Fahrradtasche und erleben Sie selbst das hohe Maß an Qualität und Komfort.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5637661740",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Ortlieb BACK-ROLLER ORANGE LINE Fahrradtaschen",
+                            "text": "<p class=\"justify\">Die Ortlieb BACK-ROLLER ORANGE LINE Fahrradtaschen sind das perfekte Accessoire für Ihr Fahrrad. Die in orange-schwarzer Farbkombination erhältlichen Taschen sind nicht nur ein echter Hingucker, sondern auch praktisch und funktional. Ortlieb ist seit vielen Jahren bekannt für seine qualitativ hochwertige Ausrüstung, und diese Fahrradtaschen sind keine Ausnahme.</p><p class=\"justify\">Diese Fahrradtaschen eignen sich hervorragend für längere Touren oder den täglichen Pendelverkehr und bieten ausreichend Stauraum für Ihre persönlichen Gegenstände. Die Taschen sind wasserdicht und schützen Ihre Sachen bei jedem Wetter. Dank des stabilen Materials sind sie zudem sehr strapazierfähig. Das macht sie zum idealen Begleiter, egal ob auf Landstraßen oder in der Stadt.</p><p class=\"justify\">Dank des einfachen Befestigungssystems lassen sich die Ortlieb BACK-ROLLER ORANGE LINE Fahrradtaschen schnell und unkompliziert an fast jedem Gepäckträger anbringen. Die Taschen sind auch leicht abzunehmen, was den Transport bequem und einfach gestaltet.</p><p class=\"justify\">Mit 219 Bewertungen und 5 Sternen ist es kein Wunder, dass diese Taschen bei den Kunden beliebt sind. Ortlieb hat es wieder einmal geschafft, ein hochwertiges Produkt zu entwickeln, das in Sachen Funktionalität und Design überzeugt. Wenn Sie auf der Suche nach modernen, praktischen und langlebigen Fahrradtaschen sind, dann sollten Sie sich die Ortlieb BACK-ROLLER ORANGE LINE Fahrradtaschen genauer ansehen. Der angegebene Preis von 104,99 € ist angesichts der gebotenen Qualität und Funktionalität mehr als angemessen.</p><p class=\"justify\">Gönnen Sie sich also noch heute die Ortlieb BACK-ROLLER ORANGE LINE Fahrradtaschen und erleben Sie den Unterschied, den qualitativ hochwertige Ausrüstung auf Ihren Fahrten machen kann!</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "5637922945",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Fjällräven S/F TOPTUBE BAG Rahmentasche",
+                            "text": "<p class=\"justify\">Die Fjällräven S/F TOPTUBE BAG Rahmentasche (SKU: 5637922945) ist eine hochwertige, praktische und stilvolle Tasche, perfekt für alle Fahrradenthusiasten. Diese grüne Rahmentasche ist nicht nur äußerst funktionell, sondern auch ein echter Hingucker, der jedem Fahrrad eine individuelle Note verleiht.</p><p class=\"justify\">Die S/F TOPTUBE BAG gehört zu den beliebtesten Produkten aus dem Sortiment von Fjällräven. Dank ihrer hervorragenden Verarbeitung und den durchdachten Features, kann sie optimal für verschiedenste Fahrradtouren und Outdoor-Aktivitäten verwendet werden. In Kategorien wie Ausrüstung, Fahrradtaschen und Fahrradrucksäcke, Rahmentaschen und S/F TOPTUBE BAG ist dieses Produkt besonders bekannt und beliebt.</p><p class=\"justify\">Die Rahmentasche verfügt über ein Hauptfach, welches ausreichend Stauraum für die wichtigsten Utensilien bietet. Durch das leicht zugängliche Reißverschlussfach sind auch kleine Gegenstände wie Schlüssel, Geld oder das Mobiltelefon schnell zur Hand. Zudem punktet die Tasche mit ihrer Robustheit und langen Lebensdauer, was sie zum idealen Begleiter auf jeder Fahrradtour macht.</p><p class=\"justify\">Mit einem Durchschnitt von 5 Sternen und 413 Bewertungen weiß man, dass man hier ein Produkt von erstklassiger Qualität in den Händen hält. Die Benutzer schätzen die Fjällräven S/F TOPTUBE BAG Rahmentasche für ihre Funktionalität, das ansprechende Design und die hohe Verarbeitungsqualität, die für die Marke Fjällräven typisch ist.</p><p class=\"justify\">Zögern Sie nicht länger und entscheiden Sie sich für diese hervorragende Rahmentasche von Fjällräven. Sie werden von ihrer Qualität und Funktionalität begeistert sein, während sie dank ihres stilvollen Aussehens auch optisch überzeugt. Investieren Sie in die Fjällräven S/F TOPTUBE BAG Rahmentasche und genießen Sie viele unbeschwerte Fahrradtouren mit Ihrer neuen, treuen Begleiterin.</p>"
+                        }
+                    ]
+                }
+            }
         ]
-      }
     },
-    "shop": {
-      "title": "Alle Fahrradtaschen und Marken im Überblick.",
-      "metaDescription": "Jede Fahrradtasche und Marken im Überblick. Sortiert nach Kategorie. Preis-Leistungs-Garantie. Jetzt die richtige Fahrradtasche finden und vergleichen.",
-      "robots": "index, follow"
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE | Fahrradtaschen Shop",
+        "defaultMetaDescription": "Alle $KATEGORIE im Überblick. Produkte und Testsieger. Jetzt günstig online bestellen. Mit Preis-Leistungs-Garantie. Produkte auf Lager.",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "fahrradtasche",
+                "slug": "fahrradtasche",
+                "name": "fahrradtasche",
+                "seo": {
+                    "title": "Fahrradtaschen günstig kaufen",
+                    "metaDescription": "Alle Fahrradtaschen im Überblick. Produkte und Testsieger. Finde die richtige Fahrradtasche mit Preis-Leistungs-Garantie",
+                    "robots": "index, follow"
+                }
+            }
+        ]
     },
-    "hersteller": {
-      "title": "Alle Marken für Fahrradtaschen im Überblick",
-      "metaDescription": "Eine Auflistung aller Marken und Hersteller für Fahrradtaschen im Überblick. Von der Ortlieb Fahrradtasche bis hin zur Vaude Fahrradtasche, hier findest du alle Hersteller.",
-      "robots": "index, follow"
+    "brandSeo": {
+        "defaultTitle": "Produkte von $HERSTELLER | Fahrradtaschen Shop",
+        "defaultMetaDescription": "Alle Produkte von $HERSTELLER im Fahrradtaschen Shop günstig online bestellen. Best-Preis-Garantie. Beliebte Produkte und Testsieger.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "Ortlieb",
+                "name": "Ortlieb",
+                "seo": {
+                    "title": "Produkte von Ortlieb günstig kaufen",
+                    "metaDescription": "Alle Produkte von Ortlieb im Überblick. Produkte und Testsieger. Der Hersteller für eine robuste und langlebige Fahrradtasche und vieles mehr.",
+                    "robots": "index, follow"
+                }
+            },
+            {
+                "key": "Vaude",
+                "name": "Vaude",
+                "seo": {
+                    "title": "Produkte von Vaude günstig kaufen",
+                    "metaDescription": "Alle Produkte von Vaude im Überblick. Produkte und Testsieger. Der Hersteller für preiswerte Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "checklist": [
+        "Material",
+        "Atmungsaktivität",
+        "Wasserfestigkeit",
+        "Komfort",
+        "Vielfältigkeit",
+        "Extra Funktionen",
+        "Pflegbarkeit"
+    ],
+    "navigationLinks": [
+        {
+            "title": "Home",
+            "linkTo": "/",
+            "linkTitle": "Fahrradtasche",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Fahrradtaschen Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "publish": true,
+            "linkTo": "/marken/",
+            "linkTitle": "Fahrradtaschen Marken"
+        },
+        {
+            "title": "Kontakt",
+            "linkTitle": "Kontakt aufnehmen",
+            "linkTo": "#kontakt",
+            "publish": false
+        }
+    ],
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+    },
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT online kaufen | Fahrradtaschen Shop",
-    "defaultMetaDescription": "$PRODUKT von $HERSTELLER günstig bestellen im Fahrradtaschen Shop. Finde den besten Preis für das Produkt. $PRODUKT ist auf Lager.",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "5637654195",
-        "seo": {
-          "texts": [
-            {
-              "title": "Jack Wolfskin NEURON Fahrradrucksack: Vielseitigkeit und Qualität vereint",
-              "text": "<p class=\"justify\">Der Jack Wolfskin NEURON Fahrradrucksack (SKU: 5637654195) ist der ideale Begleiter für alle, die auf der Suche nach einem hochwertigen und zuverlässigen Rucksack für ihre Fahrradtouren sind. Die Marke Jack Wolfskin ist bekannt für ihre erstklassige Qualität und Funktionalität und dieses Produkt bildet da keine Ausnahme. Der NEURON Fahrradrucksack ist in der Farbe Schwarz erhältlich und fügt sich somit nahtlos in jedes Outfit ein.</p><p class=\"justify\">Egal, ob Sie zur Arbeit pendeln, durch die Stadt radeln oder eine längere Tour planen – dieser Fahrradrucksack bietet ausreichend Platz für Ihre Ausrüstung und Habseligkeiten. Mit dem Fokus auf Komfort und Funktionalität verfügt der NEURON über durchdachte Details, die Ihnen das Leben erleichtern. Die verschiedenen Kategorien, wie Start, Ausrüstung, Fahrrad, Fahrradtaschen und Fahrradrucksäcke, NEURON, zeigen deutlich die Vielfalt und Einsatzbereiche dieses Rucksacks auf.</p><p class=\"justify\">Zu den Highlights dieses Rucksacks gehören die ergonomischen Schultergurte, welche für höchsten Tragekomfort sorgen, sowie ein integriertes Belüftungssystem, das für eine optimale Luftzirkulation sorgt und unangenehme Schweißbildung vermindert. Eine Vielzahl von Fächern und Taschen ermöglicht es, Ihre Ausrüstung und persönlichen Gegenstände übersichtlich und geordnet zu verstauen. Der Rucksack bietet ausreichend Platz für alles, von Ihrer Trinkflasche, über Werkzeuge bis hin zu Ersatzkleidung und Verpflegung.</p><p class=\"justify\">Mit einer durchschnittlichen Kundenbewertung von 5 Sternen und beeindruckenden 389 Rezensionen, spricht die Qualität und Zufriedenheit der Kunden für sich. Entscheiden Sie sich für den Jack Wolfskin NEURON Fahrradrucksack und profitieren Sie von der herausragenden Qualität und dem Know-how der renommierten Marke Jack Wolfskin. Dieser Rucksack wird Ihnen auf jeder Tour ein treuer Begleiter sein und Ihnen den nötigen Freiraum für Ihr persönliches Abenteuer bieten.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5637724704",
-        "seo": {
-          "texts": [
-            {
-              "title": "Ortlieb ULTIMATE SIX CLASSIC Lenkertasche - Fahrradtaschen",
-              "text": "<p class=\"justify\">Die Ortlieb ULTIMATE SIX CLASSIC Lenkertasche ist die perfekte Wahl für jeden Fahrradfahrer, der Wert auf Qualität und Funktionalität legt. Diese hochwertige und langlebige Lenkertasche aus dem Hause Ortlieb ist in der Farbe Schwarz erhältlich und bietet ausreichend Stauraum für all Ihre wichtigen Gegenstände unterwegs.</p><p class=\"justify\">Entworfen für den alltäglichen Einsatz auf Ihrem Fahrrad, passt die Ortlieb ULTIMATE SIX CLASSIC perfekt in die Kategorie Fahrradtaschen und Fahrradrucksäcke. Sie gehört zur Produktreihe ULTIMATE SIX CLASSIC und lässt sich einfach an Ihrem Lenker befestigen, sodass Sie während der Fahrt problemlos auf Ihre Sachen zugreifen können.</p><p class=\"justify\">Die Ortlieb Lenkertasche überzeugt durch ihre hohe Qualität und Strapazierfähigkeit. Hergestellt aus robusten Materialien, ist sie bestens für den täglichen Gebrauch und widrigste Witterungsbedingungen gerüstet. Die Tasche ist leicht und einfach zu nutzen, sodass Sie hervorragenden Komfort und Praktikabilität erfahren.</p><p class=\"justify\">Mit der Ortlieb ULTIMATE SIX CLASSIC Lenkertasche entscheiden Sie sich für ein Produkt, das Ihnen unabhängig von der Streckenlänge und den Wetterbedingungen treu zur Seite steht. Über 395 Kundenbewertungen mit durchschnittlich 4 Sternen bestätigen die hohe Kundenzufriedenheit. Das positive Feedback spricht für die Qualität und Zuverlässigkeit dieser einzigartigen Lenkertasche.</p><p class=\"justify\">Begeistern Sie sich selbst von der Ortlieb ULTIMATE SIX CLASSIC Lenkertasche und erleben Sie die Kombination aus erstklassigem Design, hoher Funktionalität und Langlebigkeit. Sie werden feststellen, dass diese Lenkertasche Ihre Fahrradfahrten noch angenehmer gestaltet und Ihnen eine äußerst praktische Lösung zur Aufbewahrung Ihrer persönlichen Gegenstände bietet.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5637938147",
-        "seo": {
-          "texts": [
-            {
-              "title": "Thule ROUNDTRIP BIKE DUFFEL Reisetasche - Perfekt für Fahrradliebhaber",
-              "text": "<p class=\"justify\">Die Thule ROUNDTRIP BIKE DUFFEL Reisetasche ist eine ideale Lösung für alle Fahrrad-Enthusiasten, die ihre Ausrüstung sicher und stilvoll transportieren möchten. Diese praktische Fahrradtasche von Thule, der renommierten Marke für hochwertige Transportlösungen, bietet Ihnen die perfekte Mischung aus Qualität, Design und Funktionalität.</p><p class=\"justify\">Verfügbar in der Farbe Schwarz, passt die Thule ROUNDTRIP BIKE DUFFEL Reisetasche zu jeder Fahrradausrüstung und wird durch ihre raffinierten Details und ihr attraktives Design schnell zum Hingucker. Mit einem Fassungsvermögen von 50 Litern bietet sie ausreichend Platz für Ihre Fahrradbekleidung, Schuhe und Zubehör und ist dank ihrer cleveren Innenaufteilung äußerst benutzerfreundlich.</p><p class=\"justify\">Die aus strapazierfähigem Material gefertigte Tasche verfügt über getrennte Fächer für Helm, Schuhe und Kleidung, sodass Ihre Ausrüstung während der Reise gut geschützt und organisiert bleibt. Ausgestattet mit Tragegriffen und einem abnehmbaren, gepolsterten Schultergurt, ermöglicht die ROUNDTRIP BIKE DUFFEL einen bequemen Transport - egal, ob Sie zu einem Wochenendausflug unterwegs sind oder Ihre nächste große Rennveranstaltung besuchen.</p><p class=\"justify\">Das sku 5637938147 der ROUNDTRIP BIKE DUFFEL Reisetasche unterstreicht ihre Einzigartigkeit und Exklusivität im Bereich der Fahrradtaschen und Fahrradrucksäcke. Diese Tasche gehört zur Kategorie Fahrrad Gepäcktaschen und wird von 385 zufriedenen Kunden mit 4 Sternen bewertet, was ihre hohe Qualität und Kundenzufriedenheit verdeutlicht.</p><p class=\"justify\">Kurz gesagt, die Thule ROUNDTRIP BIKE DUFFEL Reisetasche ist die perfekte Wahl für jeden Fahrradfahrer, der Wert auf Komfort, Sicherheit und Stil legt. Sie bietet ausreichend Stauraum, erstklassige Organisation und außergewöhnliche Haltbarkeit - alles, was Sie von einer hochwertigen Reisetasche erwarten dürfen. Gönnen Sie sich und Ihrer Ausrüstung diese herausragende Fahrradtasche und erleben Sie selbst das hohe Maß an Qualität und Komfort.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5637661740",
-        "seo": {
-          "texts": [
-            {
-              "title": "Ortlieb BACK-ROLLER ORANGE LINE Fahrradtaschen",
-              "text": "<p class=\"justify\">Die Ortlieb BACK-ROLLER ORANGE LINE Fahrradtaschen sind das perfekte Accessoire für Ihr Fahrrad. Die in orange-schwarzer Farbkombination erhältlichen Taschen sind nicht nur ein echter Hingucker, sondern auch praktisch und funktional. Ortlieb ist seit vielen Jahren bekannt für seine qualitativ hochwertige Ausrüstung, und diese Fahrradtaschen sind keine Ausnahme.</p><p class=\"justify\">Diese Fahrradtaschen eignen sich hervorragend für längere Touren oder den täglichen Pendelverkehr und bieten ausreichend Stauraum für Ihre persönlichen Gegenstände. Die Taschen sind wasserdicht und schützen Ihre Sachen bei jedem Wetter. Dank des stabilen Materials sind sie zudem sehr strapazierfähig. Das macht sie zum idealen Begleiter, egal ob auf Landstraßen oder in der Stadt.</p><p class=\"justify\">Dank des einfachen Befestigungssystems lassen sich die Ortlieb BACK-ROLLER ORANGE LINE Fahrradtaschen schnell und unkompliziert an fast jedem Gepäckträger anbringen. Die Taschen sind auch leicht abzunehmen, was den Transport bequem und einfach gestaltet.</p><p class=\"justify\">Mit 219 Bewertungen und 5 Sternen ist es kein Wunder, dass diese Taschen bei den Kunden beliebt sind. Ortlieb hat es wieder einmal geschafft, ein hochwertiges Produkt zu entwickeln, das in Sachen Funktionalität und Design überzeugt. Wenn Sie auf der Suche nach modernen, praktischen und langlebigen Fahrradtaschen sind, dann sollten Sie sich die Ortlieb BACK-ROLLER ORANGE LINE Fahrradtaschen genauer ansehen. Der angegebene Preis von 104,99 € ist angesichts der gebotenen Qualität und Funktionalität mehr als angemessen.</p><p class=\"justify\">Gönnen Sie sich also noch heute die Ortlieb BACK-ROLLER ORANGE LINE Fahrradtaschen und erleben Sie den Unterschied, den qualitativ hochwertige Ausrüstung auf Ihren Fahrten machen kann!</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "5637922945",
-        "seo": {
-          "texts": [
-            {
-              "title": "Fjällräven S/F TOPTUBE BAG Rahmentasche",
-              "text": "<p class=\"justify\">Die Fjällräven S/F TOPTUBE BAG Rahmentasche (SKU: 5637922945) ist eine hochwertige, praktische und stilvolle Tasche, perfekt für alle Fahrradenthusiasten. Diese grüne Rahmentasche ist nicht nur äußerst funktionell, sondern auch ein echter Hingucker, der jedem Fahrrad eine individuelle Note verleiht.</p><p class=\"justify\">Die S/F TOPTUBE BAG gehört zu den beliebtesten Produkten aus dem Sortiment von Fjällräven. Dank ihrer hervorragenden Verarbeitung und den durchdachten Features, kann sie optimal für verschiedenste Fahrradtouren und Outdoor-Aktivitäten verwendet werden. In Kategorien wie Ausrüstung, Fahrradtaschen und Fahrradrucksäcke, Rahmentaschen und S/F TOPTUBE BAG ist dieses Produkt besonders bekannt und beliebt.</p><p class=\"justify\">Die Rahmentasche verfügt über ein Hauptfach, welches ausreichend Stauraum für die wichtigsten Utensilien bietet. Durch das leicht zugängliche Reißverschlussfach sind auch kleine Gegenstände wie Schlüssel, Geld oder das Mobiltelefon schnell zur Hand. Zudem punktet die Tasche mit ihrer Robustheit und langen Lebensdauer, was sie zum idealen Begleiter auf jeder Fahrradtour macht.</p><p class=\"justify\">Mit einem Durchschnitt von 5 Sternen und 413 Bewertungen weiß man, dass man hier ein Produkt von erstklassiger Qualität in den Händen hält. Die Benutzer schätzen die Fjällräven S/F TOPTUBE BAG Rahmentasche für ihre Funktionalität, das ansprechende Design und die hohe Verarbeitungsqualität, die für die Marke Fjällräven typisch ist.</p><p class=\"justify\">Zögern Sie nicht länger und entscheiden Sie sich für diese hervorragende Rahmentasche von Fjällräven. Sie werden von ihrer Qualität und Funktionalität begeistert sein, während sie dank ihres stilvollen Aussehens auch optisch überzeugt. Investieren Sie in die Fjällräven S/F TOPTUBE BAG Rahmentasche und genießen Sie viele unbeschwerte Fahrradtouren mit Ihrer neuen, treuen Begleiterin.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE | Fahrradtaschen Shop",
-    "defaultMetaDescription": "Alle $KATEGORIE im Überblick. Produkte und Testsieger. Jetzt günstig online bestellen. Mit Preis-Leistungs-Garantie. Produkte auf Lager.",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "fahrradtasche",
-        "slug": "fahrradtasche",
-        "name": "fahrradtasche",
-        "seo": {
-          "title": "Fahrradtaschen günstig kaufen",
-          "metaDescription": "Alle Fahrradtaschen im Überblick. Produkte und Testsieger. Finde die richtige Fahrradtasche mit Preis-Leistungs-Garantie",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "Produkte von $HERSTELLER | Fahrradtaschen Shop",
-    "defaultMetaDescription": "Alle Produkte von $HERSTELLER im Fahrradtaschen Shop günstig online bestellen. Best-Preis-Garantie. Beliebte Produkte und Testsieger.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "Ortlieb",
-        "name": "Ortlieb",
-        "seo": {
-          "title": "Produkte von Ortlieb günstig kaufen",
-          "metaDescription": "Alle Produkte von Ortlieb im Überblick. Produkte und Testsieger. Der Hersteller für eine robuste und langlebige Fahrradtasche und vieles mehr.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "key": "Vaude",
-        "name": "Vaude",
-        "seo": {
-          "title": "Produkte von Vaude günstig kaufen",
-          "metaDescription": "Alle Produkte von Vaude im Überblick. Produkte und Testsieger. Der Hersteller für preiswerte Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "checklist": [
-    "Material",
-    "Atmungsaktivität",
-    "Wasserfestigkeit",
-    "Komfort",
-    "Vielfältigkeit",
-    "Extra Funktionen",
-    "Pflegbarkeit"
-  ],
-  "navigationLinks": [
-    {
-      "title": "Home",
-      "linkTo": "/",
-      "linkTitle": "Fahrradtasche",
-      "publish": true
-    },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Fahrradtaschen Shop",
-      "publish": true
-    },
-    {
-      "title": "Marken",
-      "publish": true,
-      "linkTo": "/marken/",
-      "linkTitle": "Fahrradtaschen Marken"
-    },
-    {
-      "title": "Kontakt",
-      "linkTitle": "Kontakt aufnehmen",
-      "linkTo": "#kontakt",
-      "publish": false
-    }
-  ],
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
